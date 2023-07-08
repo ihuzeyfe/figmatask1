@@ -1,0 +1,72 @@
+.textemail {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+}
+.texttel {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+}
+
+.home {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 130%;
+  text-decoration-line: underline;
+}
+
+.about,
+.features,
+.screenshot,
+.blog {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.donwload-button {
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.texth1plate {
+  width: 517px;
+  height: 126px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48.83px;
+  line-height: 63px;
+  color: #5956e9;
+  padding-top: 40px;
+  padding-left: 30px;
+}
+
+.textpplate {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #6c6c72;
+  padding-top: 45px;
+  padding-left: 30px;
+  padding-right: 53px;
+}
+
+.texth2plate {
+  width: 350px;
+  height: 38px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 38px;
+  color: #232233;
+  padding-top: 65px;
+  padding-left: 30px;
+  text-transform: uppercase;
+}
+

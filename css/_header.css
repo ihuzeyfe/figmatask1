@@ -1,0 +1,81 @@
+.birinci-ust {
+    padding-left: 136.5px;
+    padding-top: 36.5px;
+}
+
+.textemail {
+    padding-left: 19.5px;
+}
+
+.ikinci-ust {
+    padding-top: 36.5px;
+    padding-left: 49.5px;
+}
+
+.texttel{
+    padding-left: 20.25px;
+}
+
+.ucuncu-ust {
+    padding-top: 36.5px;
+    padding-left: 49.5px;
+}
+
+.facebook {
+    padding-left: 577.5px;
+}
+
+.twitter {
+    padding-left: 36.5px;
+}
+.instagram {
+    padding-left: 36.5px;
+}
+.youtube {
+    padding-left: 36.5px;
+}
+
+
+.home {
+    padding: 17px 38px 17px 52px;
+}
+
+.home:hover {
+    color: black;
+}
+
+.about {
+    padding-top: 17px;
+    padding-right: 40px;
+    padding-bottom: 13px;
+}
+
+.besinci-ust {
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+    height: 90px;
+    width: 200px;
+    align-items: center;
+    display: flex;
+    border-radius: 5px;
+    background-color: #fff;
+    padding-left: 16px;
+    
+}
+
+.blog {
+    padding-left: 43px;
+}
+
+.download-button {
+    margin-left: 43px;
+}
+
+.download-button {
+    height: 50px;
+    width: 150px;
+    background-color: #5956E9;
+    border-radius: 5px;
+    justify-content: center;
+    color: #fff;
+}
+
